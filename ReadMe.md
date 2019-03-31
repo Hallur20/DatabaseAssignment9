@@ -10,8 +10,8 @@ where
 	employees.officeCode = offices.officeCode and
     customers.city = offices.city;
 ```
-
-<img src="https://latex.codecogs.com/svg.latex?P\;of\!fice\char`_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.of\!ficeCode=o.of\!ficeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;of\!fices))))"/>
+<code>
+<img src="https://latex.codecogs.com/svg.latex?P\;of\!fice\char`_city/o.city(\sigma\;c.salesRepEmployeeNumber=e.employeeNumber(\sigma\;e.of\!ficeCode=o.of\!ficeCode(\sigma\;c.city=o.city(customers\;x\;employees\;x\;of\!fices))))"/></code>
 
 <h4>2: Add row counts to the subexpressions</h4>
 
