@@ -11,7 +11,7 @@ where
     customers.city = offices.city;
 ```
 
-```latex
+```math
 y=5
 ```
 
