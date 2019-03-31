@@ -1,6 +1,3 @@
-# LatexExercise
-
-
 <h1>Assignment 9 Database</h1>
 
 <h4>1: Rewrite the query down below as an expression in relational algebra</h4>
