@@ -23,4 +23,4 @@ where
 
 <img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,of\!fice\char`_city(\sigma\;P(\rho\;of\!fice\char`_city/o.city(customers\;x\;employees\;x\;of\!fices)))"/>
 
-
+<img src="https://latex.codecogs.com/svg.latex?\Pi\;c.customerName,of\!fice\char`_city(\sigma\;P(\rho\;of\!fice\char`_city/o.city(customers^{122}\;x\;employees^{23}\;x\;of\!fices^{7})^{19642})^{14})"/>
